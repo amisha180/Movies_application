@@ -1,0 +1,11 @@
+.detail{
+    background-color: rgb(37, 37, 37);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.detail img{
+    margin: auto;
+    max-width: 500px;
+}
